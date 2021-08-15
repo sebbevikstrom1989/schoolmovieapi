@@ -13,8 +13,8 @@ function MovieAPI() {
   const getMovieRequest = async (searchValue) => {
     const url =
       movieType === "All"
-        ? `http://www.omdbapi.com/?s=${searchValue}&apikey=8434f39a`
-        : `http://www.omdbapi.com/?s=${searchValue}&type=${movieType}&apikey=8434f39a`;
+        ? `https://www.omdbapi.com/?s=${searchValue}&apikey=8434f39a`
+        : `https://www.omdbapi.com/?s=${searchValue}&type=${movieType}&apikey=8434f39a`;
     await fetch(url)
       .then((response) => response.json())
       .then((data) => {
