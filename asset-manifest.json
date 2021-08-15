@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/schoolmovieapi/static/css/main.19a85b60.chunk.css",
-    "main.js": "/schoolmovieapi/static/js/main.1a2f6a86.chunk.js",
-    "main.js.map": "/schoolmovieapi/static/js/main.1a2f6a86.chunk.js.map",
+    "main.js": "/schoolmovieapi/static/js/main.ab67920f.chunk.js",
+    "main.js.map": "/schoolmovieapi/static/js/main.ab67920f.chunk.js.map",
     "runtime-main.js": "/schoolmovieapi/static/js/runtime-main.3e766cf3.js",
     "runtime-main.js.map": "/schoolmovieapi/static/js/runtime-main.3e766cf3.js.map",
     "static/js/2.39206b50.chunk.js": "/schoolmovieapi/static/js/2.39206b50.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3e766cf3.js",
     "static/js/2.39206b50.chunk.js",
     "static/css/main.19a85b60.chunk.css",
-    "static/js/main.1a2f6a86.chunk.js"
+    "static/js/main.ab67920f.chunk.js"
   ]
 }
